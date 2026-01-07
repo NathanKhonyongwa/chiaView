@@ -105,7 +105,7 @@ export default function OurMission() {
           transition={{ duration: 1, delay: 0.3 }}
         >
           <h1 className="text-4xl lg:text-6xl font-black bg-gradient-to-r from-slate-900 via-slate-800 to-slate-700 bg-clip-text text-transparent mb-6 leading-tight tracking-tight">
-            Our Mission
+            Chiaview's Mission
           </h1>
           <div className="w-20 h-1 bg-gradient-to-r from-slate-400 via-slate-300 to-slate-500 mx-auto rounded-full shadow-md overflow-hidden">
             <div className="w-full h-full bg-gradient-to-r from-amber-400 via-rose-400 to-indigo-400 animate-shimmer" />
