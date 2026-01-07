@@ -183,7 +183,7 @@ export default function OurMission() {
         </motion.div>
 
         {/* Core Pillars */}
-        <div className="grid lg:grid-cols-2 gap-12 lg:gap-16 mb-24 lg:mb-32">
+        <div className="grid lg:grid-cols-1 gap-12 lg:gap-16 mb-24 lg:mb-32">
           {pillars.map((pillar, i) => (
             <motion.div
               key={pillar.title}
