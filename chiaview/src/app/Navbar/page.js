@@ -16,7 +16,7 @@ export default function Navbar() {
             <div className="flex space-x-8">
               {[
                 { href: "/", label: "Home" },
-                { href: "/about", label: "About Us" },
+                { href: "/About", label: "About Us" },
                 { href: "/ministries", label: "Ministries" },
                 { href: "/sermons", label: "Sermons" },
                 { href: "/contact", label: "Contact" },
