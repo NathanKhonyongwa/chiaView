@@ -5,17 +5,17 @@ import { useEffect, useState } from "react";
 
 const slides = [
   {
-    image: "/1.jpg",
+    image: "/one.jpg",
     title: "Welcome to Our Website",
     subtitle: "This is a sample hero section.",
   },
   {
-    image: "/chia2.jpg",
+    image: "/two.jpg",
     title: "Building the Future",
     subtitle: "We create modern digital experiences.",
   },
   {
-    image: "/1.jpg",
+    image: "/one.jpg",
     title: "Grow With Us",
     subtitle: "Innovation. Technology. Excellence.",
   },
@@ -57,7 +57,6 @@ export default function Home() {
                 quality={100}
                 style={{ objectFit: "cover" }}
               />
-              <div className="absolute inset-0 bg-black/50"></div>
             </div>
 
             {/* Content */}
