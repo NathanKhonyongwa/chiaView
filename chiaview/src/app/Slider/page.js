@@ -10,7 +10,7 @@ const slides = [
     image: "/chia1.jpg",
     title: "Welcome to Chiaview Church",
     subtitle: "Preparing the world for Christ's return through faith, healing, and service",
-    cta: "Join Us Sunday",
+    cta: "Join Us",
   },
   {
     image: "/chia2.jpg",
@@ -19,7 +19,7 @@ const slides = [
     cta: "Explore Ministries",
   },
   {
-    image: "/chia3.jpg",
+    image: "/chia3.mp4",
     title: "Serving With Purpose",
     subtitle: "Impact Lilongwe through compassion, outreach, and community service",
     cta: "Get Involved",
