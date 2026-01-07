@@ -5,7 +5,7 @@ import { FiMapPin, FiHeart, FiUsers } from "react-icons/fi";
 
 const slides = [
   {
-    title: "Welcome to Chia View Church",
+    title: "Welcome to Chia View Mission",
     subtitle: "Experience God's love in Dowa",
     color: "#08284cff", // Denim
     icon: <FiMapPin size={40} />,
